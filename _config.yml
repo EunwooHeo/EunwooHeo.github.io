@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Hew"
+  avatar           : "https://github.com/math-hew/math-hew.github.io/blob/master/_posts/image/title_picture.png?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a human."
+  location         : "Pohang, Korea"
+  email            : hew0920@postech.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
