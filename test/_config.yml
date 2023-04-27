@@ -9,11 +9,11 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KOREA"
 title                    : "Minimal Mistakes"
 title_separator          : "-"
 subtitle                 : "Development Test Site"
-name                     : "Your Name"
+name                     : "math-hew"
 description              : "Minimal Mistakes theme test."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/test"
@@ -93,8 +93,8 @@ analytics:
 author:
   name             : "Eunwoo Heo"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  #location         : "Somewhere"
+  bio              : "I am a human."
+  #location         : "Pohang City, KoreaKorea"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
